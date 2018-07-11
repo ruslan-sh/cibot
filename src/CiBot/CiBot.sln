@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bot", "Bot\Bot.csproj", "{43C08450-FC66-4945-806D-400B5553F9DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleClient", "ConsoleClient\ConsoleClient.csproj", "{8014ABBD-ABD3-453F-B6AE-385F7B206528}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43C08450-FC66-4945-806D-400B5553F9DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43C08450-FC66-4945-806D-400B5553F9DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43C08450-FC66-4945-806D-400B5553F9DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43C08450-FC66-4945-806D-400B5553F9DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8014ABBD-ABD3-453F-B6AE-385F7B206528}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8014ABBD-ABD3-453F-B6AE-385F7B206528}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8014ABBD-ABD3-453F-B6AE-385F7B206528}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8014ABBD-ABD3-453F-B6AE-385F7B206528}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
